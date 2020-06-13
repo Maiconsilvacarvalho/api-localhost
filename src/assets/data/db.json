@@ -1,0 +1,22 @@
+{
+  "cars": [
+    {
+      "id": 2,
+      "model": "Land Rover Range Rover Velar",
+      "color": "Branco",
+      "price": 377.388
+    },
+    {
+      "id": 3,
+      "model": "Jetta Tsi",
+      "color": "Preto",
+      "price": 50.128
+    },
+    {
+      "model": "Up",
+      "color": "Vermelho",
+      "price": 256.489,
+      "id": 4
+    }
+  ]
+}
